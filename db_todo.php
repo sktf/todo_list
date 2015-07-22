@@ -34,6 +34,7 @@ if (isset($_POST['submit'])) {
 
     <input type="text" name="todo">
     <input type="submit" name="submit">
+ <input type="text" name="added">
 
 </form>
 <ul>
